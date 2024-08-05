@@ -4,6 +4,6 @@ git commit -a -m "Auto message"
 git push
 ng deploy \
   --repo=https://github.com/obaranovskyi/cards.git \
-  --name="obaranovskyi" \
+  --name="cards" \
   --dir=docs/cards/browser \
   --base-href=/cards/ 
