@@ -3,4 +3,4 @@
 # git commit -a -m "Auto message"
 # git push
 
-ng deploy
+ng deploy --repo=https://github.com/obaranovskyi/cards.git --name="obaranovskyi" --base-href=/cards/ --dir=docs/cards/browser
