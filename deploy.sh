@@ -5,5 +5,5 @@ git push
 ng deploy \
   --repo=https://github.com/obaranovskyi/cards.git \
   --name="obaranovskyi" \
-  --dir=docs/cards/browser \
-  --base-href=/cards/ 
+  --dir=docs/cards/browser
+  # --base-href=/cards/ 
